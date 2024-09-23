@@ -1,0 +1,42 @@
+/* .cardGrid { */
+    /* border: 5px solid green; */
+    /* display: grid; */
+    /* grid-template-columns: repeat(5, 1fr) ; */
+/* } */
+
+/* .card-image-grid-view-default{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+} */
+
+/* .card{ */
+    /* position: relative; */
+    /* cursor: pointer; */
+    /* transition: transform 0.3s; */
+    /* margin: 5px; */
+/* } */
+
+.selectedCard { 
+    filter: brightness(25%);
+} 
+
+/* .card-overlay{ */
+    /* border: 1px solid red; */
+    /* color: white; */
+    /* height: auto;  */
+    /* padding: 0; */
+    /* margin: 0; */
+    
+/* } */
+
+/* .hidden-stat{ */
+    /* display: none; */
+/* } */
+
+/* .card-image{ */
+    /* height: 350px; */
+    /* border-radius: 15px */
+
+/* } */
